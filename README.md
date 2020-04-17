@@ -7,7 +7,14 @@
 - https://github.com/onqtam/awesome-cmake
 - https://github.com/iBicha/NativePluginBuilder
 
-
+# CPP
+- https://www.geometrictools.com/ geometrictools
+- https://github.com/Ubpa/UGM
+- https://gitee.com/773622153/glm
+- https://gitlab.com/libeigen/eigen
+# C
+- https://github.com/recp/cglm
+   
 # 我的书单
 
 ## 产品、设计
